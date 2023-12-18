@@ -1,3 +1,3 @@
-# Satelite28
+# GameSatelite28
 
 Project Unity Hub. 
